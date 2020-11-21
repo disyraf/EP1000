@@ -24,7 +24,7 @@ The first step to a project is to have a plan and the first step to the plan is 
 3. A Microcontroller 
 
 The next step, in my case, is to bring the idea of the Automatic Air Refreshener into a <strong>sketch</strong>.I start to sketch the Air Refreshener itself and also took some dimension of the cannister used. 
-![](../images/sketch_air.jpg)
+![](/images/sketch_air.jpg)
 I have to admit that it doesn't look great at all. I basically drew a cuboid with a little hole at the front but this is my first sketch. I may make changes to the design further down the road.
 
 The third step is where I will begin on <strong>fabrication</strong>. I will 3D Print, Laser Cut and work on the circuit. This is where I will then start building the air refrsehener and this is where I expect to face problems. 
@@ -35,5 +35,5 @@ Lastly, <strong>documenting</strong>. As I go along the project and start buildi
 
 ### Managing My Project
 Now that I have listed out all the things that I need to do. I now will need to manage my time spent on the project. I have created a time table to help me with that. I am given a span of 4 weeks with *8 hours* per week that is split into *2 hour* sessions to spend on this project. Here is the time table I created:
-  ![](../images/timetable.JPG)
+  ![](/images/timetable.JPG)
 It looks simple but it will surely help me to manage my time and hopefully create a successful project.
