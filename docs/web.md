@@ -15,7 +15,7 @@ I was tasked to build a website by following Jake Wright's tutorial on CSS. It i
 ### Pure HTML
 After some simple steps of writing in <strong>HTML</strong>, I managed to get this basic website
 
-{% highlight js %}
+```scss
 <!DOCTYPE html>
 <html>
 <head>
@@ -54,7 +54,7 @@ After some simple steps of writing in <strong>HTML</strong>, I managed to get th
 
 </body>
 </html>
-{% endhighlight %}
+```
 
 ![](images/web-1.png)
 
