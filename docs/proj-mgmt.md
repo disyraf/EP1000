@@ -39,6 +39,6 @@ Lastly, <strong>documenting</strong>. As I go along the project and start buildi
 ### Managing My Project
 Now that I have listed out all the things that I need to do. I now will need to manage my time spent on the project. I have created a time table to help me with that. I am given a span of 4 weeks with *8 hours* per week that is split into *2 hour* sessions to spend on this project. Here is the time table I created:
 
-![](/images/sketch-air.jpg)
+![](/images/timetable.jpg)
 
 It looks simple but it will surely help me to manage my time and hopefully create a successful project.
