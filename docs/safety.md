@@ -3,5 +3,16 @@ layout: default
 ---
 
 # Fablab Safety
-## Introduction
-Safety is paramount when working in our laboratories and workshop. Document the main points, information that you need to take note of when working in SP Fablab, what are some of the key **do**'s and **don't**'s that you need to take note of, what to do in case of emergencies.
+
+<strong>Safety</strong> is paramount when working in our laboratories and workshop. 
+Here are some key points to take note of when working in Singapore Polytechnic's FabLabs
+
+* Only work in the lab when there is a lecturer or Technical Supporting Officer	(TSO)
+* Wear proper attire 
+* No eating or drinking
+* Stay alert
+* Do not operate any machinery until intructed by TSO or lecturer
+* Do not tamper with all safety devices
+* Report any <strong>Unsafe</strong> conditions 
+
+
