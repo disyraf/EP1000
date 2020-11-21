@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-#Project Management
+# Project Management
 
 ### What is Project Management?
 Projects. They can be fun or a pain. <strong>Project Management</strong> is the key to a successful project. It puts all the work needed to be done into the time frame we have and seperates them into smaller periods of time. This will all help me to hopefully create a successful project my EP1000 module.

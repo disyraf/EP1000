@@ -6,7 +6,7 @@ defaults:
     values:
       layout: default
 
-title: Your Name Website
+title: EP1000 Blog
 subtitle: Digital Fab & Prototyping Fundamentals
 baseurl: "/EP1000_"  # the subpath of your site, e.g. /blog
 # theme: panthera-jekyll
@@ -24,6 +24,10 @@ menu:
 
   - text: Fablab Safety
     link: /docs/safety.html
+    icon: ""
+
+  - text: Prototyping
+    link: /docs/prototyping.html
     icon: ""
 
   - text: Project Management
