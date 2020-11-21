@@ -54,7 +54,7 @@ After some simple steps of writing in <strong>HTML</strong>, I managed to get th
 
 </body>
 </html>
-{% endhighlight %
+{% endhighlight %}
 
 ![](images/web-1.png)
 
