@@ -14,7 +14,7 @@ I made a simple handphone holder, made up entirely out of cardboard.
 
 ## Sketching 
 Sketching is the first step to prototyping. It converts whatever is in your brain into the real world. The sketch doesn't have to be pretty. It just has to look like the picture you had in your head. For me, the handphone holder looked like this in my head:
-![](docs/images/sketch_holder.jpg)
+![](../images/sketch_holder.jpg)
 Now, I know that it is not the best looking sketch, but it's something that I can work with. 
 
 ## Tools
@@ -24,8 +24,8 @@ There are many tools that can be used but I went with the simplest of options - 
 Now that the sketch is done. I start to build it it out of cardboard. Here are the step I took to do so:
 
 1. Draw the pieces on the cardboard 
-![](docs/images/.jpg)
+![](../images/.jpg)
 2. Use the pen knife and siccors to cut them out
-![](docs/images/.jpg)
+![](../images/.jpg)
 3. Final Step: Assemble the pieces using hot glue
-![](docs/images/.jpg)
+![](../images/.jpg)
