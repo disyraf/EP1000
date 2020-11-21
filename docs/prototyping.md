@@ -26,13 +26,10 @@ There are many tools that can be used but I went with the simplest of options - 
 Now that the sketch is done. I start to build it it out of cardboard. Here are the step I took to do so:
 
 1. Draw the pieces on the cardboard 
-
 ![](../images/.jpg)
 
 2. Use the pen knife and siccors to cut them out
-
 ![](../images/.jpg)
 
 3. Final Step: Assemble the pieces using hot glue
-
 ![](../images/.jpg)
