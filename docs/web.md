@@ -6,60 +6,29 @@ layout: default
 <strong>Web Developement</strong> is a part of EP1000. It is used as a form of documentation that is accessible anywhere and anytime. I was tasked to document my journey through this module and show my progress. 
 
 ## My First Website
-I was tasked to build a website by following Jake Wright's tutorial on CSS. It is a pretty straightforward tutorial so here are some of the key steps to build a website:
+I was tasked to build a website by following [Jake Wright's tutorial on CSS](https://www.youtube.com/watch?v=0afZj1G0BIE&feature=youtu.be). It is a pretty straightforward tutorial so here are some of the key steps to build a website:
 
 {% highlight js %}
 
 {% endhighlight %}
 
 ### Pure HTML
-After some simple steps of writing in <strong>HTML</strong>, I managed to get this basic website
-
-```scss
-<!DOCTYPE html>
-<html>
-<head>
-	<title>My Project Page</title>
+After some simple steps of writing in <strong>HTML</strong>,
 	
-</head>
-<body>
-	<div id="container">
-		<div id=header>
-			<h1>My Website</h1>
+![](images/web-0.jpg)	
 
-	</div>
-	<div id="content">	
-		<div id=nav>
-			<h3>Navigation</h3>
-			<ul>
-				<li><a class="selected" href="">Home</a></li>
-				<li><a href="docs/about.html">About</a></li>
-				<li><a href="docs/contact.html">Contact</a></li>
-			</ul>
-			
-		</div>
-		<div id="main">
-			<h2>Home Page</h2>
-			<p>Pariatur incididunt amet labore id magna exercitation eiusmod excepteur ut non ut minim consequat ut exercitation esse minim cillum anim officia laborum in quis ut minim nisi.</p>
-			<p>Voluptate sit id dolore ut pariatur non velit sit ex magna velit sit eiusmod deserunt nulla nisi labore ad sed deserunt.</p>
-			<p>Proident adipisicing est sunt laborum consectetur quis dolore do dolor occaecat ullamco labore labore non aliquip sit pariatur ut.</p>			
-		</div>
-
-	</div>
-	<div id="footer">
-		Copyright &copy; 2020 Danial Isyraf
-		
-	</div>
-	</div>
-
-</body>
-</html>
-```
+ I managed to get this basic website
 
 ![](images/web-1.png)
 
 ### HTML and CSS
-Next we have <strong>CSS</strong>. CSS is a stylesheet for the HTML site. It makes the site look a little more organised.
+Next we have <strong>CSS</strong>. CSS is a stylesheet for the HTML site. It makes the site look a little more organised. From the video, I followed the steps to seperate some of the content on the page and also where to position them.
+
+This is what a CSS code looks like:
+
+![](images/web-4.jpg)
+
+And this is what the website looks like now with the CSS stylesheet file:
 
 ![](images/web-2.jpg)
 
