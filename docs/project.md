@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Final Project
-![]({{ site.baseurl }}docs/images/sketch_holder.jpg)
+
 Summary project for the Digital Fabrication & Prototyping Fundamentals module
 
 Document your project development here, as well as the final project outcome. For example your project could be broken down into the following sections:
