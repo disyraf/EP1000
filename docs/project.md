@@ -4,7 +4,7 @@ layout: default
 
 # Final Project
 
-![](images/contruction.jpg)
+![](images/construction.jpg)
 
 ## Concept
 
