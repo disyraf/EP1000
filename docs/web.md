@@ -37,7 +37,12 @@ With more CSS, the website can look even better than before. This is how my webs
 Insert an Image and Table
 
 Update HTML file:
-![](images/web-5.jpg) ![](images/web-7.jpg) 
+
+![](images/web-5.jpg) 
+
+Update the CSS file:
+
+![](images/web-7.jpg) 
 
 This is how it looks like:
 
