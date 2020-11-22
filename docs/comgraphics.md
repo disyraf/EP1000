@@ -19,7 +19,7 @@ GIMP is a great software for raster images that is free and can do many things. 
 1 .  Choose which photos you want to use. These are the 2 pictures that I will be using.
 
 ![](images/a6/cg-0.jpg) 
-![](images/a6/cg-1jpg) 
+![](images/a6/cg-1.jpg) 
 
 2 . Open the main image in GIMP
 
