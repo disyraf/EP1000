@@ -50,3 +50,22 @@ In my case, I am using [GitHub Desktop](https://desktop.github.com/) to edit my 
 
 One of the great reasons to use GitHub for your websites is that GitHub allows us to be able to have an easy method of version control. Version control is important as it makes safekeeping your work really easy. Here is how you version control with GitHub Desktop:
 
+From the previous steps, I will delete the paragraph on the home page and show how to restore it with GitHub
+
+1 . Delete the paragraph, commit to main  
+
+![](images/a5/vc-6.jpg)
+
+2 . Push to origin and check updated website
+
+![](images/a5/vc-7.jpg)
+
+3 . Go to GitHub Desktop and proceed to your repository's history tab
+
+![](images/a5/vc-8.jpg)
+
+4 . Right-click the commit you want, revert and push to origin
+
+![](images/a5/vc-9.jpg)
+
+Your website should be restored as just as mine did.
