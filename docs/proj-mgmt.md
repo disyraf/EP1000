@@ -3,10 +3,10 @@ layout: default
 ---
 # Project Management
 
-### What is Project Management?
+## What is Project Management?
 Projects. They can be fun or a pain. <strong>Project Management</strong> is the key to a successful project. It puts all the work needed to be done into the time frame we have and seperates them into smaller periods of time. This will all help me to hopefully create a successful project my EP1000 module.
 
-### The Project
+## The Project
 I was tasked to build something for EP1000 module project. This project should showcase all my learnings from this module into a single item. I was given the freedom to choose any project that could fufill the objective of showcasing everything that I have learned from this module. Many ideas came to my mind and I shortlisted a few of them.
 
 * Pencil Sharpener
@@ -16,7 +16,7 @@ I was tasked to build something for EP1000 module project. This project should s
 
 Out of all these ideas, I choose the <strong>Automatic Air Refreshener</strong>. It is an item that can be built quite easily on the outside but the insides, I suspect it to be quite a challenge but I like a little challenge. 
 
-### The Plan
+## The Plan
 The first step to a project is to have a plan and the first step to the plan is to do some <strong>Research</strong>. I did some research and found out some things that I needed to build and get to make this work. Here are some of the things I need:
 
 1. A DC Motor 
@@ -36,7 +36,7 @@ The fourth step is to <strong>test</strong> the project piece. This is where I w
 
 Lastly, <strong>documenting</strong>. As I go along the project and start building the air refreshener, I will be taking some picture, some screenshots and notes to share on my website. This allows me to monitor my progress, share my successes and failures(to hopefully learn from). This also ensure that I have a backup if anything ever goes wrong. 
 
-### Managing My Project
+## Managing My Project
 Now that I have listed out all the things that I need to do. I now will need to manage my time spent on the project. I have created a time table to help me with that. I am given a span of 4 weeks with *8 hours* per week that is split into *2 hour* sessions to spend on this project. Here is the time table I created:
 
 ![](/images/a3/timetable.JPG)

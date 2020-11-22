@@ -4,7 +4,7 @@ layout: default
 
 # Computer Graphics
 
-Computer Grapgics is divided into 2 categories:
+Computer Graphics is divided into 2 categories:
 
 | Raster | Vector |
 |------- | ------ |
