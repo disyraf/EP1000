@@ -30,6 +30,7 @@ Now that the sketch is done. I start to build it it out of cardboard. Here are t
 ![](/images/.jpg)
 
 2 .  Use the pen knife and siccors to cut them out
+
 ![](/images/prototype-2.jpg)
 
 3 . Final Step: Assemble the pieces using hot glue
