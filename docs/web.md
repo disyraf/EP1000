@@ -8,10 +8,6 @@ layout: default
 ## My First Website
 I was tasked to build a website by following [Jake Wright's tutorial on CSS](https://www.youtube.com/watch?v=0afZj1G0BIE&feature=youtu.be). It is a pretty straightforward tutorial so here are some of the key steps to build a website:
 
-{% highlight js %}
-
-{% endhighlight %}
-
 ### Pure HTML
 After some simple steps of writing in <strong>HTML</strong>,
 	
