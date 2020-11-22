@@ -11,41 +11,41 @@ I was tasked to build a website by following [Jake Wright's tutorial on CSS](htt
 ## Pure HTML
 After some simple steps of writing in <strong>HTML</strong>,
 	
-![](images/web-0.jpg)	
+![](imagesa/4/web-0.jpg)	
 
  I managed to get this basic website
 
-![](images/web-1.jpg)
+![](images/a4/web-1.jpg)
 
 ## HTML and CSS
 Next we have <strong>CSS</strong>. CSS is a stylesheet for the HTML site. It makes the site look a little more organised. From the video, I followed the steps to seperate some of the content on the page and also where to position them.
 
 This is what a CSS code looks like:
 
-![](images/web-2.jpg)
+![](images/a4/web-2.jpg)
 
 And this is what the website looks like now with the CSS stylesheet file:
 
-![](images/web-3.JPG)
+![](images/a4/web-3.JPG)
 
 ## More CSS
 With more CSS, the website can look even better than before. This is how my website looks like with a little more CSS. I made the website to specifications given for the assignment.
 
-![](images/web-4.jpg)
+![](images/a4/web-4.jpg)
 
 ## Additional Information
 Insert an Image and Table
 
 Update HTML file:
 
-![](images/web-5.jpg) 
+![](images/a4/web-5.jpg) 
 
 Update the CSS file:
 
-![](images/web-7.jpg) 
+![](images/a4/web-7.jpg) 
 
 This is how it looks like:
 
-![](images/web-6.jpg)
+![](images/a4/web-6.jpg)
 
 

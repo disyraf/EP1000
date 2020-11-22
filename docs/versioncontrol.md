@@ -24,26 +24,26 @@ In my case, I am using [GitHub Desktop](https://desktop.github.com/) to edit my 
 
 1 . Clone a repository or make a new one
 
-![](images/vc-0.jpg) 
-![](images/vc-1.jpg) 
+![](images/a5/vc-0.jpg) 
+![](images/a5/vc-1.jpg) 
 
 2 . Add all your files into the folder in your chosen local path
 
-![](images/vc-2.jpg)
+![](images/a5/vc-2.jpg)
 
 3 . Commit all the files to your main branch
 
-![](images/vc-3.jpg)
+![](images/a5/vc-3.jpg)
 
 *Button on the bottem left*
 
 4 . Push to origin to upload the files to the repository
 
-![](images/vc-4.jpg)
+![](images/a5/vc-4.jpg)
 
 5 . Your Website should be uploaded now
 
-![](images/vc-5.jpg)
+![](images/a5/vc-5.jpg)
 
 
 ## Version Control
