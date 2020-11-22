@@ -31,7 +31,7 @@ And this is what the website looks like now with the CSS stylesheet file:
 ### More CSS
 With more CSS, the website can look even better than before. This is how my website looks like with a little more CSS. I made the website to specifications given for the assignment.
 
-![](images/web-4.JPG)
+![](images/web-4.jpg)
 
 ### Additional Information
 Insert an Image and Table
