@@ -42,6 +42,10 @@ menu:
     link: /docs/versioncontrol.html
     icon: ""
 
+  - text: Computer Graphics
+    link: /docs/comgraphics.html
+    icon: ""
+
   - text: Final Project
     link: /docs/project.html
     icon: ""
