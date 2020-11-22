@@ -8,9 +8,9 @@ Computer Grapgics is divided into 2 categories:
 
 | Raster | Vector |
 |------- | ------ |
-| Deals with pixels on screen | Uses mathematical functions or algorithms to display images on the screen |
-| Becomes fuzzy when zoomed/enlarged | Stays clear when zoomed/enlarged |
-| Used for photographs and image representation | Used for  for logos, signs, fancy text and design files |
+| Deals with pixels on screen |  Uses mathematical functions or algorithms to display images on the screen |
+| Becomes fuzzy when zoomed/enlarged |  Stays clear when zoomed/enlarged |
+| Used for photographs and image representation |  Used for  for logos, signs, fancy text and design files |
 
 ## GIMP
 
