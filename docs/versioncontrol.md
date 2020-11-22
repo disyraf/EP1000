@@ -24,7 +24,7 @@ In my case, I am using [GitHub Desktop](https://desktop.github.com/) to edit my 
 
 1 . Clone a repository or make a new one
 
-![](images/vc-0.JPG) 
+![](images/vc-0.jpg) 
 ![](images/vc-1.jpg) 
 
 2 . Add all your files into the folder in your chosen local path
