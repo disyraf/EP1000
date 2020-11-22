@@ -27,7 +27,7 @@ Now that the sketch is done. I start to build it it out of cardboard. Here are t
 
 1 . Draw the pieces on the cardboard 
 
-![](/images/a2/.jpg)
+![](/images/a2/prototype-1.jpg)
 
 2 .  Use the pen knife and siccors to cut them out
 
