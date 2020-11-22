@@ -26,7 +26,7 @@ This is what a CSS code looks like:
 
 And this is what the website looks like now with the CSS stylesheet file:
 
-![](images/web-3.jpg)
+![](images/web-3.JPG)
 
 ### More CSS
 With more CSS, the website can look even better than before. This is how my website looks like with a little more CSS. I made the website to specifications given for the assignment.
