@@ -8,7 +8,7 @@ layout: default
 ## My First Website
 I was tasked to build a website by following [Jake Wright's tutorial on CSS](https://www.youtube.com/watch?v=0afZj1G0BIE&feature=youtu.be). It is a pretty straightforward tutorial so here are some of the key steps to build a website:
 
-### Pure HTML
+## Pure HTML
 After some simple steps of writing in <strong>HTML</strong>,
 	
 ![](images/web-0.jpg)	
@@ -17,7 +17,7 @@ After some simple steps of writing in <strong>HTML</strong>,
 
 ![](images/web-1.jpg)
 
-### HTML and CSS
+## HTML and CSS
 Next we have <strong>CSS</strong>. CSS is a stylesheet for the HTML site. It makes the site look a little more organised. From the video, I followed the steps to seperate some of the content on the page and also where to position them.
 
 This is what a CSS code looks like:
@@ -28,15 +28,16 @@ And this is what the website looks like now with the CSS stylesheet file:
 
 ![](images/web-3.JPG)
 
-### More CSS
+## More CSS
 With more CSS, the website can look even better than before. This is how my website looks like with a little more CSS. I made the website to specifications given for the assignment.
 
 ![](images/web-4.jpg)
 
-### Additional Information
+## Additional Information
 Insert an Image and Table
 
-![](images/web-5.jpg)
+Update HTML file:
+![](images/web-5.jpg) ![](images/web-7.jpg) 
 
 This is how it looks like:
 
