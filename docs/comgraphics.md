@@ -18,8 +18,43 @@ GIMP is a great software for raster images that is free and can do many things. 
 
 1 .  Choose which photos you want to use. These are the 2 pictures that I will be using.
 
-
 ![](images/a6/cg-0.jpg) 
 ![](images/a6/cg-1jpg) 
 
-2 . Upload
+2 . Open the main image in GIMP
+
+![](images/a6/cg-3jpg) 
+
+3 . Add an alpha layer & roughly trace the subject using the foreground select tool
+
+![](images/a6/cg-4jpg)
+
+*Press enter after tracing*
+
+4 . Use the foreground select tool to paint over the subject as much as possible
+
+![](images/a6/cg-5jpg) 
+
+5 . After painting the foreground, the image should now look this. There are still some parts of the background that needs to be corrected
+
+![](images/a6/cg-6.jpg)
+
+6 .  There are still some parts of the background that needs to be corrected. Zoom in to the edges of the subject and use the foreground select tool to touch up the ports missed.
+
+![](images/a6/cg-7.jpg)
+
+7 . Now, use the path tool to fix up the path around the subject
+
+![](images/a6/cg-8.jpg)
+
+8 . Unselect the path to remove the background
+
+![](images/a6/cg-9.jpg)
+
+9 .  Add your desired background into the layers (drag and drop)
+
+![](images/a6/cg-10.jpg)
+
+This is what the final image should look like
+
+![](images/a6/cg-11.jpg)
