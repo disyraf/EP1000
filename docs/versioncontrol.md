@@ -68,4 +68,6 @@ From the previous steps, I will delete the paragraph on the home page and show h
 
 ![](images/a5/vc-9.jpg)
 
-Your website should be restored as just as mine did.
+5 . Your website should be restored as just as mine did.
+
+![](images/a5/vc-5.jpg)
