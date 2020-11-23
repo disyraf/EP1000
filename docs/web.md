@@ -11,7 +11,7 @@ I was tasked to build a website by following [Jake Wright's tutorial on CSS](htt
 ## Pure HTML
 After some simple steps of writing in <strong>HTML</strong>,
 	
-![](imagesa/4/web-0.jpg)	
+![](images/a4/web-0.jpg)	
 
  I managed to get this basic website
 
