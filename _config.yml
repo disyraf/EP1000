@@ -46,6 +46,10 @@ menu:
     link: /docs/comgraphics.html
     icon: ""
 
+  - text: Computer Aided Design
+    link: /docs/cad.html
+    icon: ""
+
   - text: Final Project
     link: /docs/project.html
     icon: ""
