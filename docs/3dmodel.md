@@ -23,7 +23,7 @@ This is what I managed to design:
 
 ![](images/a8/m2.jpg)
 
-Here are the step I took to get the final model:
+Here are the steps I took to get the final model:
 
 1. Draw a rectangle with dimensions 20 x 50
 2. Draw a construction line with length 6.66 horizontally from the mid-point of the breadth 
@@ -32,3 +32,5 @@ Here are the step I took to get the final model:
 5. Draw 2 circles intersecting with the tip of the arc
 6. Add your name, initials or identifying marks
 7. Extrude the keytag 
+
+## 2nd Exercise: Fidget Spinner 
