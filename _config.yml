@@ -50,6 +50,14 @@ menu:
     link: /docs/cad.html
     icon: ""
 
+  - text: 3D Modelling
+    link: /docs/3dmodel.html
+    icon: ""
+
+  - text: 3D Printing
+    link: /docs/3dprint.html
+    icon: ""
+
   - text: Final Project
     link: /docs/project.html
     icon: ""
