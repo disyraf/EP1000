@@ -46,4 +46,3 @@ Here is what I designed:
 
 ![](images/a8/m5.jpg)
 
-Here are the steps I took to design the model;
