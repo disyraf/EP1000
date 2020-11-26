@@ -34,3 +34,16 @@ Here are the steps I took to get the final model:
 7. Extrude the keytag 
 
 ## 2nd Exercise: Fidget Spinner 
+
+For this exercise, I am going to design and model a fidget spinner. The fidget spinner will modelled off [ABEC 608 Bearing](https://www.skf.com/us/products/rolling-bearings/ball-bearings/deep-groove-ball-bearings/productid-608-Z) and [M8 Stainless Steel Hex Nuts](https://www.westfieldfasteners.co.uk/Metric-Nuts/Hex-Nut-M8-A2-Stainless.html) as the counterweights.
+
+Here is the example of a figdet spinner model that was given to me:
+
+![](images/a8/m3.jpg)
+![](images/a8/m4.jpg)
+
+Here is what I designed:
+
+![](images/a8/m5.jpg)
+
+Here are the steps I took to design the model;
