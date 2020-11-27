@@ -23,7 +23,7 @@ This is what I managed to design:
 
 ![](images/a8/m2.jpg)
 
-{% include frame1.html %}
+
 
 Here are the steps I took to get the final model:
 
@@ -48,5 +48,5 @@ Here is what I designed:
 
 ![](images/a8/m5.jpg)
 
-{% include frame2.html %}
+
 

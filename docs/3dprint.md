@@ -27,6 +27,8 @@ I am going to design a knight chess piece model and 3D print it. Here is the mod
 
 ![](images/a9/p1.jpg)
 
+{% include frame3.html %}
+
 Here are the steps I took to get the final design:
 
 1. Find an image of a knight chess piece head to use a a canvas & resize the image 
