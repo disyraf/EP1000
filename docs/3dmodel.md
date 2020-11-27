@@ -23,6 +23,8 @@ This is what I managed to design:
 
 ![](images/a8/m2.jpg)
 
+{% include frame1.html %}
+
 Here are the steps I took to get the final model:
 
 1. Draw a rectangle with dimensions 20 x 50
