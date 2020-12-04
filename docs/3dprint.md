@@ -23,7 +23,7 @@ In my case, I am going to be using the Ultimaker 2+ 3D printer that is available
 
 ## 3D Printing Exercise: Knight Chess Piece
 
-I am going to design a knight chess piece model and 3D print it. Here is the model that I designed:
+I am going to design a knight chess piece model and 3D print it. Here is the [Knight Chess Piece](f3d/knight-piece.f3d) that I designed:
 
 ![](images/a9/p1.jpg)
 

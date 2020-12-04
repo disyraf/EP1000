@@ -19,7 +19,7 @@ These are the specifications given to me:
 * The key ring hole must have a diameter of at least 2.5 mm with neck width of at least 3.5 mm for strength
 * Do not make the keytag thicker than 4 mm
 
-This is what I managed to design:
+This is the [Keytag](f3d/keytag.f3d) managed to design:
 
 ![](images/a8/m2.jpg)
 
@@ -44,7 +44,7 @@ Here is the example of a figdet spinner model that was given to me:
 ![](images/a8/m3.jpg)
 ![](images/a8/m4.jpg)
 
-Here is what I designed:
+Here is the [Fidget Spinner](f3d/fidget-spinner.f3d) designed:
 
 ![](images/a8/m5.jpg)
 
