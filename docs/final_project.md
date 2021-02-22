@@ -108,17 +108,17 @@ As I mentioned earlier, I need to use a rack and pinion system to push down in t
 
 Firstly, I modified the motor bracket to change the mounting system
 
-![](/images/a12/pr15.jpg)
-![](/images/a12/pr16.jpg)
-Original design 
-Modified design
+
+| Original Design  | Modified Design |
+| ----------- | ----------- |
+| ![](/images/a12/pr15.jpg) | ![](/images/a12/pr16.jpg) |
+
 
 Next, I modified the rack/pusher.
 
-![](/images/a12/pr17.jpg)
-![](/images/a12/pr18.jpg)
-Original design 
-Modified design 
+| Original Design  | Modified Design |
+| ----------- | ----------- |
+| ![](/images/a12/pr17.jpg) | ![](/images/a12/pr18.jpg) |
 
 
 ## 3D Printing
