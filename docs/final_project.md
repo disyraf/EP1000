@@ -146,7 +146,113 @@ The rack did take multiple tries and revisions as I had different designs.
 
 I did have a failed print for the motor bracket where the print became loose and moved off the bed while printing. 
 
-![](/images/a12/pr22.jpg))
+![](/images/a12/pr22.jpg)
+
+I used super glue to glue the pinion gear to one of the attachments that was included with the servo motor.
+
+![](/images/a12/pr23.jpg)
+![](/images/a12/pr24.jpg)
+
+## Laser Cutting
+
+The case has to be laser cut, so I converted the sketches from fusion to DXF files. I then inserted them into AutoCad to position them.
+
+![](/images/a12/pr25.jpg)
+
+I used 3mm thick acrylic for the case and here are the pieces after laser cutting.
+
+![](/images/a12/pr26.jpg)
+
+I needed to make some more modifications to the pieces, the top piece and the front pieces. So, I use a drill, files and also used a saw to cut some these holes
+
+![](/images/a12/pr27.jpg)
+
+## Electronics
+
+Electronics
+When it comes to the electronics of my project, I used TinkerCad to virtually create and wire up my circuit to test it out. 
+
+![](/images/a12/pr28.jpg)
+
+After that, I wired up the circuit with the Arduino Uno and tested it physically. 
+
+![](/images/a12/pr29.jpg)
+
+Testing servo & rack and pinion: I programmed it such that the servo rotates the pinion gear back and forth.
+
+![](/images/a12/pr30.jpg)
+
+Testing Ultrasonic Sensor using a serial monitor 
+(insert pic)(insert vid)
+
+Here is the code I wrote with reference to this [tutorial](https://dronebotworkshop.com/hc-sr04-ultrasonic-distance-sensor-arduino/) :
+
+```
+#include <Servo.h>
+#define echoPin 3
+#define trigPin 2
+Servo myservo; 
+
+long duration; 
+int distance; 
+int val;
+int reset = 4;
+int countdown = 90*60*1000; // 90mins
+
+void setup() {
+  digitalWrite(reset, HIGH);
+  pinMode(reset, OUTPUT);
+  myservo.attach(9);
+  pinMode(trigPin, OUTPUT);
+  pinMode(echoPin, INPUT); 
+  Serial.begin(9600);
+  Serial.println("Ready");
+
+  checkdistance();
+  Serial.print("Distance = ");
+  Serial.println(distance);
+
+  myservo.write(180); // rack is pushed down
+  delay(850);
+  myservo.write(0); // rack is pulled back up
+  delay(850);
+  myservo.write(90); // servo is not moving
+}
+
+void checkdistance(){
+  digitalWrite(trigPin, LOW);
+  delayMicroseconds(2);
+  digitalWrite(trigPin, HIGH);
+  delayMicroseconds(10);
+  digitalWrite(trigPin, LOW);
+  duration = pulseIn(echoPin, HIGH);
+  distance = duration * 0.034 / 2; 
+}
+
+void loop(){
+  
+  while(distance>7 && countdown!= 0){
+  checkdistance();
+  Serial.print("Distance = ");
+  Serial.println(distance);
+  
+  if(distance<7){
+    digitalWrite(reset, LOW);
+  }
+  countdown = countdown - 500;
+  delay(500);
+  }
+
+  digitalWrite(reset, LOW);
+  
+}
+```
+
+How the code works:
+1. Servo is activated when the program starts and countdown timer starts
+2. While loop will actively check for distance and minus countdown timer
+3. When distance is less than 7cm or when countdown timer has ended(countdown=0), program will restart to step 1
+
 
 
 ## Testing
