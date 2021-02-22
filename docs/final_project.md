@@ -148,7 +148,7 @@ I did have a failed print for the motor bracket where the print became loose and
 
 ![](/images/a12/pr22.jpg)
 
-I used super glue to glue the pinion gear to one of the attachments that was included with the servo motor.
+I used super glue to bond the pinion gear to one of the attachments that was included with the servo motor.
 
 ![](/images/a12/pr23.jpg)
 ![](/images/a12/pr24.jpg)
@@ -180,10 +180,12 @@ After that, I wired up the circuit with the Arduino Uno and tested it physically
 
 Testing servo & rack and pinion: I programmed it such that the servo rotates the pinion gear back and forth.
 
-![](/images/a12/pr30.jpg)
+{% include vid1.html %}
 
 Testing Ultrasonic Sensor using a serial monitor 
-(insert pic)(insert vid)
+![](/images/a12/pr30.jpg)
+
+{% include vid2.html %}
 
 Here is the code I wrote with reference to this [tutorial](https://dronebotworkshop.com/hc-sr04-ultrasonic-distance-sensor-arduino/) :
 
@@ -254,14 +256,6 @@ How the code works:
 3. When distance is less than 7cm or when countdown timer has ended(countdown=0), program will restart to step 1
 
 
-
-## Testing
-
-Describe the testing process for the various sub-systems that make up your project and how you integrated the different sub-systems.
-
-## Results
-
-What result did you get from the full testing of your final project?
 
 ## Conclusion
 
