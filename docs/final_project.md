@@ -271,6 +271,10 @@ Assembly of the air freshener is pretty easy. The electronics does give a little
 
 | ![](/images/a12/pr34.jpg) | ![](/images/a12/pr35.jpg) | 
 
+4 . That's it! It is now fully assembled!
+
+| ![](/images/a12/pr37.jpg) | ![](/images/a12/pr38.jpg) | ![](/images/a12/pr39.jpg) | 
+
 I ended up not being able to fit some of the pieces that I laser cut earlier. So these pieces were left out:
 
 ![](/images/a12/pr36.jpg) 
@@ -284,6 +288,10 @@ In conclusion, the project turned out to be quite successful. There were some hi
 2. The overall size and fit of the case is quite sloppy and could be imporved with some changes that can help with the tolerences, resulting in a better fit & finish and not forgetting reducing the overall size as well.
 3. I could have not used the Ultrasonic Sensor as it is quite overkill for my use case. I could have went with a simple infrared sensor instead. 
 
+### Presentation
+
+![](/images/a12/auto_air_fresh.jpg) 
+
 ## Design files & Source Code
 
-Include all original design files and source code for your project.
+1. 
