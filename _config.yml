@@ -8,7 +8,7 @@ defaults:
 
 title: EP1000 Blog
 subtitle: Digital Fab & Prototyping Fundamentals
-baseurl: "/EP1000_"  # the subpath of your site, e.g. /blog
+baseurl: "/EP1000"  # the subpath of your site, e.g. /blog
 # theme: panthera-jekyll
 remote-theme: christianezeani/panthera-jekyll
 
@@ -59,7 +59,7 @@ menu:
     icon: ""
 
   - text: Final Project
-    link: /docs/project.html
+    link: /docs/final_project.html
     icon: ""
 
   - text: Contact
