@@ -288,9 +288,13 @@ In conclusion, the project turned out to be quite successful. There were some hi
 2. The overall size and fit of the case is quite sloppy and could be imporved with some changes that can help with the tolerences, resulting in a better fit & finish and not forgetting reducing the overall size as well.
 3. I could have not used the Ultrasonic Sensor as it is quite overkill for my use case. I could have went with a simple infrared sensor instead. 
 
-### Presentation
+## Presentation
 
-![](/images/a12/auto_air_fresh.png) 
+![](/images/a12/auto_air_fresh.png)
+
+## Video
+
+ {% include vid3.html %} 
 
 ## Design files & Source Code
 
