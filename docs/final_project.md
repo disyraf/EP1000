@@ -255,11 +255,34 @@ How the code works:
 2. While loop will actively check for distance and minus countdown timer
 3. When distance is less than 7cm or when countdown timer has ended(countdown=0), program will restart to step 1
 
+## Assembly
+
+Assembly of the air freshener is pretty easy. The electronics does give a little bit of a challenge but here is how I put everything (almost everything) together.
+
+1 . I peeled the adhesive behind the breadboard and attached it to the right piece of the case on the inside
+
+![](/images/a12/pr31.jpg)
+
+2 . Then I used M3 x 20 machince screws and nuts along with some spacers made from acrylic pieces to secure the rack & pinion system to the top piece
+
+| ![](/images/a12/pr32.jpg) | ![](/images/a12/pr33.jpg) |
+
+3 . The next step is to wire everything up and put the Ultrasonic Sensor in the hole made for it and put all the pieces together
+
+| ![](/images/a12/pr34.jpg) | ![](/images/a12/pr35.jpg) | 
+
+I ended up not being able to fit some of the pieces that I laser cut earlier. So these pieces were left out:
+
+![](/images/a12/pr36.jpg) 
 
 
 ## Conclusion
 
-What conclusions can you draw from your final project? What are the issues/problems encountered? How did you resolve them? What are the improvements that can be made to your project?
+In conclusion, the project turned out to be quite successful. There were some hiccups and the journey was not entirely smooth sailing. I ended up with a working project but it didn't look as planned with some of the pieces not being able to fit. However, I have learned quite a number of useful things along the way and there are some imporvements that I can make to make this project even better. 
+
+1. I could have not used the rack & pinion system and instead made a simpler system that could push or pull down on the nozzle of the spray cannister.
+2. The overall size and fit of the case is quite sloppy and could be imporved with some changes that can help with the tolerences, resulting in a better fit & finish and not forgetting reducing the overall size as well.
+3. I could have not used the Ultrasonic Sensor as it is quite overkill for my use case. I could have went with a simple infrared sensor instead. 
 
 ## Design files & Source Code
 
