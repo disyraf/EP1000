@@ -183,6 +183,7 @@ Testing servo & rack and pinion: I programmed it such that the servo rotates the
 {% include vid1.html %}
 
 Testing Ultrasonic Sensor using a serial monitor 
+
 ![](/images/a12/pr30.jpg)
 {% include vid2.html %}
 
