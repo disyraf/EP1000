@@ -257,7 +257,7 @@ How the code works:
 
 ## Assembly
 
-Assembly of the air freshener is pretty easy. The electronics does give a little bit of a challenge but here is how I put everything (almost everything) together.
+With all the testing being successful, it is now time to assemble all the pieces together. Assembly of the air freshener is pretty easy. The electronics does give a little bit of a challenge but here is how I put everything (almost everything) together. Do note that I have transferred all of the electronics from the Arduino Uno to the Arduino Nano in order to make it fit inside the enclosure.
 
 1 . I peeled the adhesive behind the breadboard and attached it to the right piece of the case on the inside
 
@@ -290,7 +290,7 @@ In conclusion, the project turned out to be quite successful. There were some hi
 
 ### Presentation
 
-![](/images/a12/auto_air_fresh.jpg) 
+![](/images/a12/auto_air_fresh.png) 
 
 ## Design files & Source Code
 
