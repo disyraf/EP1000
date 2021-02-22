@@ -107,16 +107,18 @@ The case is now done!
 As I mentioned earlier, I need to use a rack and pinion system to push down in the nozzle of the spray. I downloaded the design from thingiverse and modified it to make it more suitable for my use case. I inserted the STL files into Fusion 360 and then started to modify them.
 
 Firstly, I modified the motor bracket to change the mounting system
+
 ![](/images/a12/pr15.jpg)
 ![](/images/a12/pr16.jpg)
-
-Original design 					 Modified design
+Original design 
+Modified design
 
 Next, I modified the rack/pusher.
+
 ![](/images/a12/pr17.jpg)
 ![](/images/a12/pr18.jpg)
-
-| Original design | Modified design |
+Original design 
+Modified design 
 
 
 ## 3D Printing
@@ -124,18 +126,27 @@ The Rack and Pinion system require 3D printing so I first converted the 3D desig
 
 ![](/images/a12/pr19.jpg)
 
+Slicer settings:
+1. Layer Height: 0.16mm
+2. Generate Support Materials: Touching Buildplate
+3. Support Pattern: Grid
+4. Support Density: 15%
+5. Infill Density: 20%
+6. Infill Pattern: Grid
+7. Speed: 50mm/s
+8. Build Plate Adhesion: Skirt & Skirt Line Count: 3
+
 Here are the results:
 
-(insert pics)
+![](/images/a12/pr20.jpg)
 
 The rack did take multiple tries and revisions as I had different designs.
 
-(insert pics)
+![](/images/a12/pr21.jpg)
 
 I did have a failed print for the motor bracket where the print became loose and moved off the bed while printing. 
 
-(insert pic)
-
+![](/images/a12/pr22.jpg))
 
 
 ## Testing
