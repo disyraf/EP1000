@@ -6,9 +6,9 @@ defaults:
     values:
       layout: default
 
-title: EP1000 Blog
-subtitle: Digital Fab & Prototyping Fundamentals
-baseurl: "/EP1000"  # the subpath of your site, e.g. /blog
+title: EP1001 Blog
+subtitle: Further Digital Fab & Prototyping Fundamentals
+baseurl: "/EP1001"  # the subpath of your site, e.g. /blog
 # theme: panthera-jekyll
 remote-theme: christianezeani/panthera-jekyll
 
