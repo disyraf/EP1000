@@ -26,38 +26,6 @@ menu:
     link: /docs/safety.html
     icon: ""
 
-  - text: Prototyping
-    link: /docs/prototyping.html
-    icon: ""
-
-  - text: Project Management
-    link: /docs/proj-mgmt.html
-    icon: ""
-
-  - text: Web Development
-    link: /docs/web.html
-    icon: ""
-
-  - text: GitHub & Version Control
-    link: /docs/versioncontrol.html
-    icon: ""
-
-  - text: Computer Graphics
-    link: /docs/comgraphics.html
-    icon: ""
-
-  - text: Computer Aided Design
-    link: /docs/cad.html
-    icon: ""
-
-  - text: 3D Modelling
-    link: /docs/3dmodel.html
-    icon: ""
-
-  - text: 3D Printing
-    link: /docs/3dprint.html
-    icon: ""
-
   - text: Final Project
     link: /docs/final_project.html
     icon: ""
