@@ -26,6 +26,14 @@ menu:
     link: /docs/safety.html
     icon: ""
 
+  - text: Electronics Production
+    link: /docs/eprod.html
+    icon: ""
+
+  - text: Electronics Design
+    link: /docs/edesign.html
+    icon: ""
+
   - text: Final Project
     link: /docs/final_project.html
     icon: ""
