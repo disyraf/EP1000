@@ -11,7 +11,7 @@ Make an in-circuit programmer by milling and stuffing the PCB. In this case, the
 ## FTDI Board
 
 | Board | Trace | Outline |
-| ![](docs/images/a1/p1.png) | ![](docs/images/a1/p2.png) | ![](docs/images/a1/p3.png) |
+| ![](images/a1/p1.png) | ![](images/a1/p2.png) | ![](images/a1/p3.png) |
 
 ## Creating gcode files
 
@@ -19,23 +19,23 @@ Before milling out the PCB design, we first need to create gcode files. This is 
 
 1. Select "mill 2D PCB png" under open server programs 
 
-![](docs/images/a1/p4.jpg)
+![](images/a1/p4.jpg)
 
 2. Import image file (.png) 
 
-![](docs/images/a1/p5.jpg)
+![](images/a1/p5.jpg)
 
 3. Select PCB default "mill traces"
 
-![](docs/images/a1/p6.jpg)
+![](images/a1/p6.jpg)
 
 4. Set cutting and plunge speeds 
 
-![](docs/images/a1/p7.jpg)
+![](images/a1/p7.jpg)
 
 5. Check final perimeters and calculate to get gcode file
 
-![](docs/images/a1/p8.jpg)
+![](images/a1/p8.jpg)
 
 Now you have the gcode file for the PCB traces, repeat for outline but change PCB default to "mill outline". By doing so, the following perimeters have been adjusted:
 
@@ -47,7 +47,7 @@ Now you have the gcode file for the PCB traces, repeat for outline but change PC
 
 4. Offset: 1
 
-![](docs/images/a1/p9.jpg) 
+![](images/a1/p9.jpg) 
 
 ## Milling out the PCB
 
@@ -55,7 +55,7 @@ Now that we have the gcode files for the PCB, we can start to mill the PCB out.
 
 Firstly, we have to put some double-sided tape onto the back of out copper board and stick it onto the sacrificial layer of wood. Make sure that the tape is covering as much surface as it can, this will prevent the board from moving freely when milling.
 
-![](docs/images/a1/p10.jpg)
+![](images/a1/p10.jpg)
 
 Secondly, we insert our selected mill bit into the spindle head and tighten it into place. 
 
@@ -63,11 +63,11 @@ Thirdly, we load up our gcode file on to the program of the CNC machine, and sta
 
 Lastly, we turn on the spindle and start milling. While waiting for the job to finish, we can use a vacuum to clean up the dust that the machine has made from cutting the material. 
 
-![](docs/images/a1/p11.jpg)
+![](images/a1/p11.jpg)
 
 Once the milling is done, we turn off the spindle, use the vacuum once again to clear up the dust made and remove the board. 
 
-![](docs/images/a1/p12.jpg)
+![](images/a1/p12.jpg)
 
 Now, you have a milled out PCB board. The next step is to clean out the burrs on the board, making the board much more smoother and also easier to solder on our components. 
 
